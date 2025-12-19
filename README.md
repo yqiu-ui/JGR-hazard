@@ -10,11 +10,10 @@ The data/model files are in four categories. The detailed files for each categor
    - btides.in (boundary condition)
 
 2. OpenSees model:
-
-
-
-
-
+   - c2.py (Main OpenSees model in python - needs to be modified for different waveshape/loading cases)
+   - earthquakevelo.txt (OpenSees earthquake velocity input file)
+   - schismwaveshpae1.txt (OpenSees wave elevation input file - fault style 1)
+   - schismwaveshpae2.txt (OpenSees wave elevation input file - fault style 2)
 
 3. Data files:
 
