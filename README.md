@@ -15,8 +15,8 @@ The data/model files are in four categories. The detailed files for each categor
    - schismwaveshpae1.txt (OpenSees wave elevation input file - fault style 1)
    - schismwaveshpae2.txt (OpenSees wave elevation input file - fault style 2)
 
-3. Data files:
+3. Plotting Data:
+   - Matlab (.m) files for all Figures appear in the manustript.
+   - All Data related to Figure plotting.
+   - High resolution .eps file for all Figures.
 
-
-
-4. Plotting:
